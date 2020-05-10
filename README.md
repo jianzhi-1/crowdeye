@@ -1,6 +1,6 @@
 # crowdeye - keeping an eye for crowds
 
-![crowdeye icon](https://github.com/jianzhi-1/crowdeye/blob/master/logo_actual.png)
+![crowdeye icon](https://github.com/jianzhi-1/crowdeye/blob/master/images/logo_actual.png)
 
 ### Concept
 Ever since the start of COVID-19 pandemic, many social distancing measures have been put into place.
@@ -23,13 +23,13 @@ CrowdEye colour codes your route, showing you how crowded the route may be at a 
 * *Delete* - deletes a data point
 
 
-![CrowdEye Interface](https://github.com/jianzhi-1/crowdeye/blob/master/map_interface.png)
+![CrowdEye Interface](https://github.com/jianzhi-1/crowdeye/blob/master/images/map_interface.png)
 
 
 > CrowdEye Interface
 
 
-![marymount_to_amk.png](https://github.com/jianzhi-1/crowdeye/blob/master/marymount_to_amk.png)
+![marymount_to_amk.png](https://github.com/jianzhi-1/crowdeye/blob/master/images/marymount_to_amk.png)
 
 
 > CrowdEye showing the heat density of a route from Marymount MRT to AMK Park
