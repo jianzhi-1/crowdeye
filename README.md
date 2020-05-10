@@ -24,11 +24,12 @@ CrowdEye colour codes your route, showing you how crowded the route may be at a 
 
 
 ![CrowdEye Interface](https://github.com/jianzhi-1/crowdeye/blob/master/map_interface.png)
-> CrowdEye Interface
 
 
 ![marymount_to_amk.png](https://github.com/jianzhi-1/crowdeye/blob/master/marymount_to_amk.png)
-> CrowdEye showing the heat density of a route from Marymount MRT to AMK Park
+
+
+Above images show the interface of CrowdEye and the heat density of a route from Marymount MRT to AMK Park
 
 
 
